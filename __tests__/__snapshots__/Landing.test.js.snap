@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`'Landing' component tests: It renders correctly: 1`] = `
+<div>
+  <div
+    class="bg-purple-500"
+  >
+    <div
+      class="container min-h-screen flex flex-col sm:flex-row items-center justify-around"
+    >
+      <div
+        class="flex flex-col items-center"
+      >
+        <h1
+          class="text-3xl sm:text-4xl text-white mb-20 sm:mb-10"
+        >
+          Where's That Thing?
+        </h1>
+        <button
+          class="bg-purple-800 text-white rounded py-1 px-4 uppercase shadow-sm shadow-purple-800 active:scale-95 hover:bg-purple-900 w-1/2"
+        >
+          play
+        </button>
+      </div>
+      <div
+        class="w-0.5 sm:h-56 md:h-64 lg:h-80 xl:h-96 bg-purple-800 hidden sm:block"
+      />
+      <div
+        class="hidden sm:block sm:w-1/3 items-center justify-center overflow-hidden rounded-md"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+        >
+          <span
+            style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 100% 0px 0px 0px;"
+          />
+          <img
+            alt=""
+            data-nimg="responsive"
+            decoding="async"
+            sizes="100vw"
+            src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </span>
+      </div>
+      <div
+        class="w-5/6 sm:hidden items-center justify-center overflow-hidden rounded-full"
+      >
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+        >
+          <span
+            style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 100% 0px 0px 0px;"
+          />
+          <img
+            alt=""
+            data-nimg="responsive"
+            decoding="async"
+            sizes="100vw"
+            src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+          />
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

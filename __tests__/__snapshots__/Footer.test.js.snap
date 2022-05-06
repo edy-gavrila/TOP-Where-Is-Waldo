@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`'Footer' component tests: It renders correctly: 1`] = `
+<div>
+  <div
+    class="flex flex-col sm:flex-row items-center justify-between sm:h-8 px-2 bg-purple-700 text-white"
+  >
+    <p
+      class="text-small sm:text-base mb-2 sm:mb-0"
+    />
+  </div>
+</div>
+`;
